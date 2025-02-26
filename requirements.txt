@@ -1,1 +1,2 @@
-
+snowflake-snowpark-python>=0.11.0 
+streamlit>=1.10.0
